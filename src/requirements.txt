@@ -1,0 +1,8 @@
+Django==2.2.6
+argon2-cffi==19.2.0
+psycopg2-binary==2.8.4
+django-csp==3.6
+django-debug-toolbar==2.2
+django-filter==2.2.0
+gunicorn==20.0.4
+django-extensions==2.2.9django-tenant-schemas==1.10.0django-redis==4.11.0django-tenant-schemas==1.10.0django-redis==4.11.0
